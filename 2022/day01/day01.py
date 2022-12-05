@@ -22,6 +22,7 @@ while i:
                 max3 = sum
         sum = 0
     i = f.readline()
+f.close()
 print("1er = ",max1)
 print("2eme = ",max2)
 print("3eme = ",max3)
